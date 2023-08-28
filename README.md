@@ -1,0 +1,1 @@
+# NaviQR-ReactNativeProject
